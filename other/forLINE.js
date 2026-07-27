@@ -14,7 +14,8 @@
             color: #555;
         }
         /* トークルームの背景 */
-        [class*="chatroom-module"], [class*="chat_room"] {
+        [class*="chatroom-module"], [class*="chat_room"],
+        .categoryLayout-module__category_wrap__31191 {
             background-color: #1e1e1e !important;
         }
         .createChatButton-module__button_create__-BK-p {
@@ -52,6 +53,9 @@
         }
         .textMessageContent-module__text__EFwEN a {
             color: green;
+        }
+        .friendlistItem-module__item__1tuZn * {
+            color: #555;
         }
 
         /* -------------------------------------------
